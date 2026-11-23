@@ -28,3 +28,14 @@ function readLine() {
 // let or = readLine();
 // console.log(`Hello ${names} !!!`);
 // console.log(`You ordered ${or}.`);
+
+// let up = parseInt(readLine());
+// let gst = parseInt(readLine());
+// let per = parseInt((up * gst) / 100);
+// console.log(per + up);
+
+// let a1 = parseInt(readLine());
+// let a2 = parseInt(readLine());
+// let a3 = parseInt(readLine());
+// let a4 = a3 - a2 + a3;
+// console.log(a4);
